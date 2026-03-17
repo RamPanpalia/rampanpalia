@@ -33,7 +33,7 @@ Software Engineer @ Zaggle | Backend & Full Stack Developer
 - Deployed using **Docker, AWS (EC2, S3), Nginx**
 - Implemented secure authentication using Next.js
 
-⚠️ Repo is private, but happy to walk through architecture/design if needed.
+⚠️ Repo is private, but you can experience it at cviere.com
 
 ---
 
