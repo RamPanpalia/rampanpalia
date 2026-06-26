@@ -1,6 +1,6 @@
 # Hi, I'm Ram 👋
 
-Software Engineer @ Zaggle | Backend & Full Stack Developer
+Software Engineer @ Jodo | Backend & Full Stack Developer
 
 ---
 
