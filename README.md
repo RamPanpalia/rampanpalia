@@ -5,7 +5,7 @@ Software Engineer @ Zaggle | Backend & Full Stack Developer
 ---
 
 ## 🚀 About Me
-- Software Engineer @ Zaggle (Pune)
+- Software Engineer @ Jodo (Bangalore)
 - Strong in **Backend Systems, Distributed Architecture, and APIs**
 - 700+ DSA problems solved across platforms
 - Interested in building scalable systems and developer-focused products
